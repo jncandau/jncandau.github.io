@@ -73,8 +73,8 @@ hero_description: |
     <div class="card">
       <div class="card-content">
         <p class="card-meta">November 2025</p>
-        <h3>Grant awarded</h3>
-        <p class="card-description">We received funding from NSERC to study forest pest early warning systems.</p>
+        <h3>...</h3>
+        <p class="card-description">...</p>
       </div>
     </div>
   </div>
