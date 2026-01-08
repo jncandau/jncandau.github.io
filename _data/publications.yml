@@ -1,0 +1,162 @@
+# Publications - converted from BibTeX
+# Edit pdf, code, data fields as needed
+
+- year: 2025
+  title: "Come from away: Reconstructing a long‐range migratory flight of spruce budworm moths to Newfoundland, Canada"
+  authors: "Barnéoud P, Pearce J, Malo A, Candau J-N"
+  journal: "Ecological Entomology"
+  volume: ""
+  doi: "https://doi.org/10.1111/een.70011"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2025
+  title: "Phenology: An Integrative Environmental Science"
+  authors: "Candau J-N, Studens K"
+  journal: "Book Chapter"
+  volume: "339-368"
+  doi: "https://doi.org/10.1007/978-3-031-75027-4_15"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2025
+  title: "A novel integrated framework to identify and characterize regional-scale pest insect dispersal"
+  authors: "Dargent F, Reich MS, Miller M, Studens K, Benvidi N, Perrault K, Aibueku J, Holmes B, Bataille C, Candau J-N"
+  journal: "bioRxiv"
+  volume: "preprint"
+  doi: "https://doi.org/10.1101/2025.02.26.640127"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2025
+  title: "An ensemble machine learning bioavailable strontium isoscape for Eastern Canada"
+  authors: "Le Corre M, Dargent F, Grimes V, Wright J, Côté SD, Reich MS, Candau J-N, Miller M, Holmes B, Bataille CP, Britton K"
+  journal: "FACETS"
+  volume: "10, 1-17"
+  doi: "https://doi.org/10.1139/facets-2024-0180"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2024
+  title: "Larval mortality from phenological mismatch can affect outbreak frequency and severity of a boreal forest defoliator"
+  authors: "Portalier SMJ, Candau J-N, Lutscher F"
+  journal: "Ecological Modelling"
+  volume: "493, 110724"
+  doi: "https://doi.org/10.1016/j.ecolmodel.2024.110724"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2024
+  title: "Predicting the Temperature-Driven Development of Stage-Structured Insect Populations with a Bayesian Hierarchical Model"
+  authors: "Studens K, Bolker BM, Candau J-N"
+  journal: "Journal of Agricultural, Biological and Environmental Statistics"
+  volume: "29(3), 536-552"
+  doi: "https://doi.org/10.1007/s13253-023-00581-y"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2024
+  title: "Differential advances in budburst timing among black spruce, white spruce and balsam fir across Canada"
+  authors: "Podadera DS, Balducci L, Rossi S, Cartenì F, Néron V, Saint-Amant R, Mazzoleni S, Régnière J, Moise ERD, Bowden JJ, Candau J-N, Dupont A, Amos-Binks L, Berthiaume R, Carleton D, Edwards S, Johns RC, McIntosh RL, Perreault P, Poniatowski B, Ross F, Undershultz M, Whitehouse C, Deslauriers A"
+  journal: "Agricultural and Forest Meteorology"
+  volume: "349, 109950"
+  doi: "https://doi.org/10.1016/j.agrformet.2024.109950"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2024
+  title: "Environmental characteristics of primary outbreak foci of the pine-tree lappet Dendrolimus pini (Lepidoptera, Lasiocampidae)"
+  authors: "Sukovata L, Tracz W, Ciesielski M, Candau J-N"
+  journal: "Forest Ecology and Management"
+  volume: "569, 122176"
+  doi: "https://doi.org/10.1016/j.foreco.2024.122176"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2023
+  title: "Expression of the gonad-specific small heat shock protein, CfHSP20.2, in the spruce budworm, Choristoneura fumiferana (Clem.)"
+  authors: "Quan G, Duan J, Fick W, Candau J-N"
+  journal: "Journal of Thermal Biology"
+  volume: "103463"
+  doi: "https://doi.org/10.1016/j.jtherbio.2023.103463"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2022
+  title: "A temperature‐driven model of phenological mismatch provides insights into the potential impacts of climate change on consumer–resource interactions"
+  authors: "Portalier SMJ, Candau J-N, Lutscher F"
+  journal: "Ecography"
+  volume: ""
+  doi: "https://doi.org/10.1111/ecog.06259"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2022
+  title: "Inferred seasonal alternation in the anatomical structures determining maximum transpiration rate in upland boreal stand types"
+  authors: "Studens JA, Wang X, Candau J-N"
+  journal: "Ecohydrology"
+  volume: ""
+  doi: "https://doi.org/10.1002/eco.2410"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2021
+  title: "From branch to bench: establishing wild spruce budworm populations into laboratory colonies for the exploration of local adaptation and plasticity"
+  authors: "Perrault K, Wardlaw AA, Candau JN, Irwin CL, Demidovich M, MacQuarrie CJK, Roe AD"
+  journal: "The Canadian Entomologist"
+  volume: "153(3), 374-390"
+  doi: "https://doi.org/10.4039/tce.2021.1"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2020
+  title: "Aerial spraying of bacterial insecticides to control spruce budworm defoliation leads to reduced carbon losses"
+  authors: "Liu Z, Peng C, De Grandpré L, Candau JN, Work T, Zhou X, Kneeshaw D"
+  journal: "Ecosphere"
+  volume: "11(1), 229-16"
+  doi: "https://doi.org/10.1002/ecs2.2988"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2020
+  title: "Early avian functional assemblages after fire, clearcutting, and post-fire salvage logging in North American forests"
+  authors: "Bognounou F, Venier LA, Van Wilgenburg SL, Aubin I, Candau JN, Arsenault A, Hebert C, Ibarzabal J, Song SJ, De Grandpré L"
+  journal: "Canadian Journal of Forest Research"
+  volume: "7(2), 1-15"
+  doi: "https://doi.org/10.1139/cjfr-2020-0145"
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2020
+  title: "Projected changes in fire size from daily spread potential in Canada over the 21st century"
+  authors: "Wang X, Studens K, Parisien M-A, Taylor SW, Candau JN, Boulanger Y, Flannigan MD"
+  journal: "Environmental Research Letters"
+  volume: "15(10), 104048"
+  doi: ""
+  pdf: ""
+  code: ""
+  data: ""
+
+- year: 2020
+  title: "Molecular characterization of eight ATP-dependent heat shock protein transcripts and their expression profiles in response to stresses in the spruce budworm, Choristoneura fumiferana (L.)"
+  authors: "Quan G, Duan J, Fick W, Candau JN"
+  journal: "Journal of Thermal Biology"
+  volume: "88, 102493"
+  doi: ""
+  pdf: ""
+  code: ""
+  data: ""

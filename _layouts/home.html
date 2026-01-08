@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="hero-content">
+    <h1>{{ page.hero_title | default: site.title }}</h1>
+    <p class="tagline">{{ page.tagline | default: "Quantitative ecology of forest insects" }}</p>
+    <div class="hero-description">
+      {{ page.hero_description | markdownify }}
+    </div>
+  </div>
+</section>
+
+<div class="main-content">
+  {{ content }}
+</div>

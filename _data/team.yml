@@ -1,0 +1,50 @@
+# Team members data file
+# Edit this file to update team information
+
+pi:
+  name: "Dr. [Your Name]"
+  role: "Associate Professor"
+  email: "pi@university.edu"
+  research: "Population dynamics, spatial ecology, statistical modeling"
+  photo: "/assets/images/team/pi.jpg"
+  google_scholar: "https://scholar.google.com/citations?user=YOURID"
+  twitter: ""
+  github: ""
+
+current_members:
+  - name: "Dr. Alex Thompson"
+    role: "Postdoctoral Researcher"
+    research: "Bark beetle spatial dynamics and remote sensing"
+    email: "alex.thompson@university.edu"
+    start_year: 2023
+    photo: ""
+    
+  - name: "Sarah Chen"
+    role: "PhD Student"
+    research: "Population genetics of forest defoliators"
+    email: ""
+    start_year: 2025
+    photo: ""
+    
+  - name: "Marcus Williams"
+    role: "PhD Student"
+    research: "Climate change impacts on outbreak dynamics"
+    email: ""
+    start_year: 2022
+    photo: ""
+    
+  - name: "Elena Rodriguez"
+    role: "MSc Student"
+    research: "Trophic interactions in boreal forests"
+    email: ""
+    start_year: 2024
+    photo: ""
+
+alumni:
+  - name: "Dr. James Park"
+    role: "PhD 2024"
+    current_position: "Research Scientist at Canadian Forest Service"
+    
+  - name: "Dr. Lisa Nguyen"
+    role: "Postdoc 2022-2024"
+    current_position: "Assistant Professor, University of Alberta"

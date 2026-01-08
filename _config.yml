@@ -1,0 +1,69 @@
+# Site settings
+title: "QEFIR Lab"
+description: "Quantitative ecology of forest insects — population dynamics, spatial modeling, and ecosystem interactions"
+baseurl: "/QEFIR-Lab" # subpath of your site, e.g. /blog
+url: "https://jncandau.github.io" # the base hostname & protocol, e.g. https://yourusername.github.io
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Theme colors (forest-inspired)
+# Deep forest green: #1a3c34
+# Bark brown: #5c4033
+# Lichen gray-green: #8fa876
+# Canopy light: #c9d4a9
+
+# Collections for organizing content
+collections:
+  projects:
+    output: true
+    permalink: /lab-projects/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+  team:
+    output: true
+    permalink: /lab-info/team/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team-member"
+
+# Navigation
+nav_links:
+  - title: Home
+    url: /
+  - title: Lab Info
+    url: /lab-info/
+  - title: Projects
+    url: /lab-projects/
+  - title: Publications
+    url: /publications/
+
+# Social links (customize these)
+github_username: your-lab-github
+twitter_username: your-lab-twitter
+email: lab.email@university.edu
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
